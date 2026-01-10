@@ -488,7 +488,7 @@ Para novas funcionalidades:
 Aqui estão exemplos reais do sistema em funcionamento:
 
 #### **Imagem Original → Pré-processamento**
-![Preprocessed Image](results/preprocessing_Images/thresholded_image.jpg)
+![Preprocessed Image](results/preprocessing_images/thresholded_image.jpg)
 
 *Imagem após preprocessamento - conversão para escala de cinza e redimensionamento*
 

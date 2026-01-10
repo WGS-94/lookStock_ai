@@ -459,7 +459,7 @@ copies or substantial portions of the Software.
 - **📧 Email**: support@lookstock.ai
 - **💬 Issues**: [GitHub Issues](https://github.com/wgs94/empty-shelf-detection/issues)
 - **📖 Wiki**: [Documentação Wiki](https://github.com/wgs94/empty-shelf-detection/wiki)
-- **🎥 Vídeos**: [Tutoriais em Vídeo](https://youtube.com/lookstock)
+- **🎥 Vídeos**: [Tutoriais em Vídeo](https://youtube.com/)
 
 ### 🐛 Reportar Bugs
 
@@ -488,11 +488,13 @@ Para novas funcionalidades:
 Aqui estão exemplos reais do sistema em funcionamento:
 
 #### **Imagem Original → Pré-processamento**
-![Preprocessed Image](results/Preprocessing Images/thresholded_image.jpg)
+![Preprocessed Image](results/preprocessing_images/thresholded_image.jpg)
+
 *Imagem após preprocessamento - conversão para escala de cinza e redimensionamento*
 
 #### **Resultado Final com Anotações**
 ![Final Annotated Image](results/Final_Output/final_annotated.jpg)
+
 *Resultado final - detecção com bounding boxes e classificação de produtos*
 
 ### 🎯 Análise dos Resultados

@@ -506,6 +506,12 @@ Aqui estão exemplos reais do sistema em funcionamento:
 
 ---
 
+### 🖼️ Imagens do Sistema
+
+<div align="center">
+  <img widht="200px" heigth="200px" src="telas/tela01.jpg">
+</div>
+
 <div align="center">
 
 ### 🌟 **LookStock AI - Detecção Inteligente de Prateleiras Vazias**

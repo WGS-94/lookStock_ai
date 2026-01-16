@@ -509,7 +509,7 @@ Aqui estão exemplos reais do sistema em funcionamento:
 ### 🖼️ Imagens do Sistema
 
 <div align="center">
-  <img widht="200px" heigth="200px" src="telas/tela01.jpg">
+  <img widht="200px" heigth="200px" src="screens/tela01.png" />
 </div>
 
 <div align="center">

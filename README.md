@@ -488,12 +488,16 @@ Para novas funcionalidades:
 Aqui estão exemplos reais do sistema em funcionamento:
 
 #### **Imagem Original → Pré-processamento**
-![Preprocessed Image](results/preprocessing_images/thresholded_image.jpg)
+<div>
+  <img src="results/preprocessing_images/thresholded_image.jpg" width="400" height="400" />
+</div>
 
 *Imagem após preprocessamento - conversão para escala de cinza e redimensionamento*
 
 #### **Resultado Final com Anotações**
-![Final Annotated Image](results/Final_Output/final_annotated.jpg)
+<div>
+  <img src="results/Final_Output/final_annotated.jpg" width="400" height="400" />
+</div>
 
 *Resultado final - detecção com bounding boxes e classificação de produtos*
 
@@ -504,13 +508,20 @@ Aqui estão exemplos reais do sistema em funcionamento:
 - ✅ **Classificação**: Diferenciação entre prateleiras vazias e ocupadas
 - ✅ **Visualização**: Interface intuitiva com cores diferenciadas
 
----
 
 ### 🖼️ Imagens do Sistema
 
-<div align="center">
-  <img widht="200px" heigth="200px" src="screens/tela01.png" />
-</div>
+<img src="screens/Tela01.png" width="400" height="400" />
+<img src="screens/Tela02.png" width="400" height="400" />
+<img src="screens/Tela03.png" width="400" height="400" />
+<img src="screens/Tela04.png" width="400" height="400" />
+<img src="screens/Tela05.png" width="400" height="400" />
+<img src="screens/Tela07.png" width="400" height="400" />
+<img src="screens/Tela09.png" width="400" height="400" />
+<img src="screens/Tela06.png" width="400" height="400" />
+<img src="screens/Tela08.png" width="400" height="400" />
+
+---
 
 <div align="center">
 
